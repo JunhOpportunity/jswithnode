@@ -1,0 +1,13 @@
+{
+  "name": "npm",
+  "scripts": {
+    "start": "nodemon app",
+    "gogo": "node app"
+  },
+  "dependencies": {
+    "underscore": "^1.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
